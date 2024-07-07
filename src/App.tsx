@@ -8,7 +8,7 @@ function App() {
 		<InputProvider>
 			<TaskProvider>
 				<div className="App">
-					<h1 className="container text-left mt-20 text-cyan-100">Лист заданий</h1>
+					<h1 className="container text-left mt-20 text-cyan-700">Лист заданий</h1>
 					<InputForm />
 					<ListTasks />
 				</div>

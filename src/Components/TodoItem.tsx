@@ -37,7 +37,7 @@ const TodoItem = ({ task }: TodoItemProps) => {
 				className={
 				  task.isComplete
 					? "flex items-center mr-3 text-blue-600 text-3xl"
-					: "mr-3 text-cyan-100 text-3xl"
+					: "mr-3 text-cyan-700 text-3xl"
 				}
 				htmlFor={`${task.id}`}
 			  >

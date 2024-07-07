@@ -25,7 +25,7 @@ const InputForm = () => {
 			<form onSubmit={handleSubmit} className="w-full max-w-sm">
 				<div className="flex items-left  border-b-2 border-blue-500 py-2">
 					<input
-						className="appearance-none bg-transparent border-none w-full text-cyan-100 mr-3 py-1 px-2 leading-tight focus:outline-none"
+						className="appearance-none bg-transparent border-none w-full text-cyan-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
 						type="text"
 						placeholder="Напишите задание"
 						required
